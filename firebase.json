@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "neurochat-ce359",
+                    "appId": "1:101813099744:android:1858a3d578150899620485",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "neurochat-ce359",
+                    "configurations": {
+                        "android": "1:101813099744:android:1858a3d578150899620485",
+                        "web": "1:101813099744:web:831ef1198c614f53620485"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101813099744",
+    "project_id": "neurochat-ce359",
+    "storage_bucket": "neurochat-ce359.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101813099744:android:1858a3d578150899620485",
+        "android_client_info": {
+          "package_name": "com.example.neurochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2zkgPjeW9WNmssxjzSwFpmec9EOkmZwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
